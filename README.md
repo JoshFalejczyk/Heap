@@ -1,4 +1,4 @@
-# Heap
+# Min-Heap
 
 This was a project from Fall 2019 for my CS201 class.  It is a C++ implementation of a standard binary Min-Heap, built using a dynamic array class I also wrote.  The data within the Heap is represented by Nodes that contains both keys and data values, and a variety of functions are included in Heap.cpp for analysis of the data structure.
 
