@@ -10,6 +10,8 @@ Functions/Usage:
 5. Peak Value (returns the data value of the Node with the minimum key in the Heap without modifying the Heap structure)
 6. Heapify (resorts the array for the Heap in Min-Heap structure)
 7. Print Key (outputs the keys associated with the Heap in a level-order traversal)
+8. Copy Constructor/Copy Assignment Operator (included for good practice of dynamic memory allocation)
+9. Destructor (properly frees manually allocated memory within Heap)
 
 To Run:
 1. Compile using "make" or "g++ -Wall 201MainPhase3Heap.cpp".
