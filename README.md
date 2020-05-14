@@ -4,10 +4,10 @@ This was a project from Fall 2019 for my CS201 class.  It is a C++ implementatio
 
 Functions/Usage: 
 1. Constructor (constructor for Heap object, plus an optional overloaded constructor for preloaded data)
-2. Insert (Inserts a Node into the Heap)
-3. Extract Min (Removes and returns the minimum key in the Heap)
-4. Peak Key (Returns the minimum key in the Heap without modifying the Heap structure)
-5. Peak Value (Returns the data value of the Node with the minimum key in the Heap without modifying the Heap structure)
+2. Insert (inserts a Node into the Heap)
+3. Extract Min (removes and returns the minimum key in the Heap)
+4. Peak Key (returns the minimum key in the Heap without modifying the Heap structure)
+5. Peak Value (returns the data value of the Node with the minimum key in the Heap without modifying the Heap structure)
 6. Heapify (resorts the array for the Heap in Min-Heap structure)
 7. Print Key (outputs the keys associated with the Heap in a level-order traversal)
 
