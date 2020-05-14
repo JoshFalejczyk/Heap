@@ -11,6 +11,10 @@ Functions/Usage:
 6. Heapify (resorts the array for the Heap in Min-Heap structure)
 7. Print Key (outputs the keys associated with the Heap in a level-order traversal)
 
+To Run:
+1. Compile using "make" or "g++ -Wall 201MainPhase3Heap.cpp".
+2. Run using "./phase3" for the former compilation command, or "./a.exe" (or "./a.out" if on Mac) for the latter.
+
 Credit: 
 1. The concept for the project and 201MainPhase3Heap.cpp test runner file were written and supplied by my professor, Dr. Brandon Dixon.
 2. The CircularDynamicArray.cpp and Heap.cpp files, plus the Makefile, were written by myself.
